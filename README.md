@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Medeiros20
+- 👋 Hi, I’m João Medeiros
 - 🌱 I’m currently learning JavaScript, html e css
 - 😄 Estudo Engenharia da computação na UFPA (UNIVERSDADE FEDERAL DO PARÁ)
 
