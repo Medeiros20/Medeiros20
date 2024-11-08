@@ -1,5 +1,5 @@
 - 👋 Hi, I’m João Medeiros
-- 🌱 I’m currently learning JavaScript, html e css
+- 🌱 I’m currently learning algumas linguagens de programação como C e JavaScript, e estou aprendendoas Linguagens de marcação HTML e CSS.
 - 😄 Estudo Engenharia da computação na UFPA (UNIVERSDADE FEDERAL DO PARÁ)
 
 
