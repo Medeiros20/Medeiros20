@@ -1,11 +1,11 @@
 # João Medeiros
-## Aprendendo:
+## Aprendendo 📚👨🏽‍💻:
 - JavaScript
 - HTML
 - CSS
 - Next.js
 - C
-## Formação academica:
+## Formação academica 📚👨🏽‍💻:
 - Cursando Engenharia da computação na UFPA (UNIVERSDADE FEDERAL DO PARÁ).
 
 
