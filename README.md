@@ -6,7 +6,7 @@
 - Next.js
 - C
 ## Formação academica:
-- Cursando Engenharia da computação na UFPA (UNIVERSDADE FEDERAL DO PARÁ)
+- Cursando Engenharia da computação na UFPA (UNIVERSDADE FEDERAL DO PARÁ).
 
 
 <!---
