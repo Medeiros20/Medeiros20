@@ -16,7 +16,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ## Experiência de  trabalho:
 <table>
@@ -24,7 +23,7 @@
     <td><img src="https://avatars.githubusercontent.com/u/188200926?s=200&v=4" alt="Logo da Empresa" width="80"></td>
     <td>
       <strong>Desenvolvedor Front-end</strong><br>
-      <a href="https://github.com/linkjr-castanhal" target="_blank">Linklr</a> • Part-time remoto<br>
+      <a href="https://linkjr.com.br/" target="_blank">Linklr</a> • Part-time remoto<br>
       <strong>Ago 2024 - Atualmente</strong><br>
       <strong>Linguagens & Tecnologias:</strong> <code>React</code>, <code>Next.js</code>, <code>Nest.js</code>, <code>Typescript</code>
     </td>
