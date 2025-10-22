@@ -17,6 +17,10 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+## Certificações:
+<img width="138" height="138" alt="aws-certified-cloud-practitioner (1)" src="https://github.com/user-attachments/assets/eafdcd96-2a91-4385-9639-6836be76edcb" />
+<img width="138" height="138" alt="aws-certified-developer-associate" src="https://github.com/user-attachments/assets/98383a2c-9b1d-43fc-80b2-6e77056a8eb7" />
+
 ## Experiência de  trabalho:
 <table>
   <tr>
