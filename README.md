@@ -1,5 +1,4 @@
 # João Medeiros ✌🏽
-![Medeiros20 GitHub stats](https://github-readme-stats.vercel.app/api?username=Medeiros20&show_icons=true&theme=tokyonight)
 
 ## Formação academica 📚:
 - Cursando Engenharia da computação na UFPA (UNIVERSDADE FEDERAL DO PARÁ).
