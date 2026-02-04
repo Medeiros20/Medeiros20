@@ -1,11 +1,47 @@
-# João Medeiros ✌🏽
+# Olá, eu sou o João Medeiros! 👋
 
-## Formação academica 📚:
-- Cursando Engenharia da computação na UFPA (UNIVERSDADE FEDERAL DO PARÁ).
+Graduando em Engenharia de Computação (UFPA). Desenvolvedor Fullstack com foco em Java (Spring Boot) e JavaScript (Next.js), alem de conhecimentos em nuvem com certificação AWS.
 
-<h2 align="left">Contatos</h2>
+## 🛠️ Tecnologias e Ferramentas
 
-###
+### 💻 Back-end & Linguagens
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,py" alt="Backend Skills" />
+</p>
+
+### ☁️ Cloud & Infra
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,mysql,postgres,git,github" alt="Cloud and DB Skills" />
+</p>
+
+### 🎨 Front-end
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts,nextjs" alt="Frontend Skills" />
+</p>
+
+
+## 📜 Certificações Cloud
+<div align="left">
+  <img width="120" alt="AWS Cloud Practitioner" src="https://github.com/user-attachments/assets/eafdcd96-2a91-4385-9639-6836be76edcb" />
+  <img width="120" alt="AWS Developer Associate" src="https://github.com/user-attachments/assets/98383a2c-9b1d-43fc-80b2-6e77056a8eb7" />
+</div>
+
+## 💼 Experiência Profissional
+
+<table>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/188200926?s=200&v=4" alt="LinkJr Logo" width="100"></td>
+    <td>
+      <strong>Desenvolvedor Front-end</strong><br>
+      <a href="https://linkjr.com.br/" target="_blank">LinkJr</a> • Part-time Remoto<br>
+      <em>Ago 2024 - Presente</em><br><br>
+      Desenvolvimento de interfaces modernas e responsivas utilizando o ecossistema React e Next.js, com foco em performance e experiência do usuário.
+    </td>
+  </tr>
+</table>
+
+
+## 📫 Vamos conversar?
 
 <div align="left">
   <a href="https://www.linkedin.com/in/dev-joao-medeiros" target="_blank">
@@ -15,51 +51,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-<h2 align="left">Linguagens e tecnologias</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-
-## Certificações:
-<img width="138" height="138" alt="aws-certified-cloud-practitioner (1)" src="https://github.com/user-attachments/assets/eafdcd96-2a91-4385-9639-6836be76edcb" />
-<img width="138" height="138" alt="aws-certified-developer-associate" src="https://github.com/user-attachments/assets/98383a2c-9b1d-43fc-80b2-6e77056a8eb7" />
-
-## Experiência de  trabalho:
-<table>
-  <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/188200926?s=200&v=4" alt="Logo da Empresa" width="80"></td>
-    <td>
-      <strong>Desenvolvedor Front-end</strong><br>
-      <a href="https://linkjr.com.br/" target="_blank">Linklr</a> • Part-time remoto<br>
-      <strong>Ago 2024 - Atualmente</strong><br>
-      <strong>Linguagens & Tecnologias:</strong> <code>React</code>, <code>Next.js</code>, <code>Nest.js</code>, <code>Typescript</code>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-<!---
-Medeiros20/Medeiros20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
