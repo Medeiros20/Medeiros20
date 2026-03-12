@@ -4,7 +4,7 @@ Graduando em Engenharia de Computação (UFPA). Desenvolvedor Fullstack com foco
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Back-end & Linguagens
+### 💻 Back-end
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,py" alt="Backend Skills" />
 </p>
