@@ -34,7 +34,7 @@ Graduando em Engenharia de Computação (UFPA). Desenvolvedor Fullstack com foco
     <td>
       <strong>Desenvolvedor Front-end</strong><br>
       <a href="https://linkjr.com.br/" target="_blank">LinkJr</a> • Part-time Remoto<br>
-      <em>Ago 2024 - Presente</em><br><br>
+      <em>Ago 2024 - Ago 2025</em><br><br>
       Desenvolvimento de interfaces modernas e responsivas utilizando o ecossistema React e Next.js, com foco em performance e experiência do usuário.
     </td>
   </tr>
